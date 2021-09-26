@@ -1,0 +1,89 @@
+﻿  Cakes.cpp
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(138,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(177,32): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(200,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(211,1): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(215,90): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(308,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(308,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(325,68): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(326,66): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(339,43): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(341,44): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(345,1): warning C4244: "+=": konwersja z "float" do "uint64_t", możliwa utrata danych
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(407,79): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(438,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(492,77): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(492,59): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(537,67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Filip\Desktop\Project1\Project1\Cakes.cpp(537,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Trwa generowanie kodu
+  0 of 223 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project1.vcxproj -> C:\Users\Filip\Desktop\Project1\x64\Release\Project1.exe
